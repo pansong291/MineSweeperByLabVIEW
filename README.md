@@ -1,0 +1,2 @@
+# MineSweeperByLabVIEW
+第一次尝试LabVIEW并写了个扫雷游戏，作为虚拟仪器课程的课程设计
